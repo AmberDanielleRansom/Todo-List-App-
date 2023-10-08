@@ -1,4 +1,4 @@
-import React from 'react';
+
 import {FaCheckCircle, FaEdit, FaTrash,} from "react-icons/fa"
 
 const TodosList = ({ todos, setTodos, setEditTodo }) => {
