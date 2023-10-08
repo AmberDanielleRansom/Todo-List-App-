@@ -2,7 +2,7 @@ import React, {useState,  useEffect} from 'react';
 import Header from "./components/Header"; 
 import Form from "./components/Form";
 import TodosList from './components/TodosList';
-
+import './App.css';
 
 const App = () => {
 
